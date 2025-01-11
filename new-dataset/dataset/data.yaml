@@ -1,0 +1,5 @@
+train: new-dataset/dataset/train/images 
+val: new-dataset/dataset/val/images
+
+nc: 2
+names: ['not strawberry', 'strawberry']
